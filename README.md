@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="mailto:your-email@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
+  <code><a href="mailto:mostafaayman6644@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
 </h5>
 
 <br>
