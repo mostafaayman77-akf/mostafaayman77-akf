@@ -7,7 +7,6 @@
 </h1>
 
 <h5 align="center">
-<a href="https://www.linkedin.com/in/mostafa-ayman-515550267/" target="_blank"></a>
 </h5>
 
 <br>
