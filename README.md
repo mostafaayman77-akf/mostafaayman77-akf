@@ -26,7 +26,7 @@
   <br>
   💬 Ask me anything <a href="https://github.com/">here</a>
   <br>
-  📫 Reach me: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+  📫 Reach me: <a href="mailto:mostafaayman6644@gmail.com">mostafaayman6644@gmail.com</a>
 </p>
 
 <hr>
