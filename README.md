@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mostafa-ayman-515550267)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
 <br>
