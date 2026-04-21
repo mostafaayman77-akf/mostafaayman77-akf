@@ -38,19 +38,22 @@
 
 <br>
 
-<p align="center">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title=".NET Core" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="ASP.NET Core" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="SQL Server" height="25" src="images/sqlserver.png"></code>
-  <code><img title="Entity Framework" height="25" src="images/entityframework.png"></code>
-  <code><img title="LINQ" height="25" src="images/linq.png"></code>
-  <code><img title="REST API" height="25" src="images/api.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.png"></code>
-  <code><img title="Postman" height="25" src="images/postman.png"></code>
-</p>
+### 🛠 &nbsp;Tech Skills
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-%23F68D2E?style=flat-square)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat)&nbsp;
+![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=c++)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 <hr>
 
