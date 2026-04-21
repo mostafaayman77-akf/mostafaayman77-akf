@@ -1,47 +1,39 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-ayman.mostafa-ayman">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<h3 align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I'm+Mostafa+Ayman;Backend+.NET+Developer;&center=true&size=30">
-  </a>
-</h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="mailto:your-email@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
-</h5>
-
-<br>
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  Hi, I'm Mostafa Ayman 👋 Backend Developer specializing in .NET from Egypt 🇪🇬
-  <br><br>
-  💻 I build scalable Web APIs using ASP.NET Core
-  <br>
-  🛢️ Working with SQL Server & Database Design
-  <br>
-  🔐 Interested in Clean Architecture & Secure Applications
-  <br>
-  🚀 Always learning new backend technologies
-  <br>
-  📚 Currently improving my skills in Microservices & System Design
-  <br>
-  💬 Ask me anything <a href="https://github.com/">here</a>
-  <br>
-  📫 Reach me: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+<h3>🚀 About Me</h3> 
 
-<hr>
+I'm Mohamed Gamal from Egypt, specialized in backend development using ASP.NET and SQL Server. with expertise in these technologies,I have strong foundation in building robust and scalable backend solutions.
 
-<h2 align="center">🔥 Tech Stack 🔥</h2>
+### Connect with Me :
 
-<br>
+<a href="https://www.linkedin.com/in/mohamed-gamal-ab4593232/" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamed.g.taha2024@gmail.com)](mailto:mohamed.g.taha2024@gmail.com)
 
-<p align="center">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title=".NET Core" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="ASP.NET Core" height="25" src="images/dotnetcore.svg"></code>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+
+### 🛠 &nbsp;Tech Skills
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-%23F68D2E?style=flat-square)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat)&nbsp;
+![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=c++)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
   <code><img title="SQL Server" height="25" src="images/sqlserver.png"></code>
   <code><img title="Entity Framework" height="25" src="images/entityframework.png"></code>
   <code><img title="LINQ" height="25" src="images/linq.png"></code>
